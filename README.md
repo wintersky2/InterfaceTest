@@ -1,8 +1,9 @@
 ## 백엔드
-- [x] CREATE
-- [x] READ
-- [x] UPDATE
-- [x] DELETE
+- [x] 단건 생성
+- [x] 다건 조회
+- [x] 단건 조회
+- [x] 단건 수정
+- [x] 단건 삭제
 
 ## 프론트엔드
 - [ ] CREATE
