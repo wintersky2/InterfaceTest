@@ -4,3 +4,5 @@ spring:
     url: jdbc:h2:mem:db_dev;MODE=MYSQL
     username: sa
     password:
+server:
+  port: 8080
